@@ -1,0 +1,87 @@
+body {
+    text-align: center;
+    margin: auto;
+    background-color: #23252C;
+}
+
+#root {
+    font-family: 'Inter', sans-serif;
+    background-color: #1A1B21;
+    color: #FFFFFF;
+    margin: 20px auto;
+    width: 320px;
+    border-top-left-radius: 22px;
+    border-top-right-radius: 22px;
+    border-bottom-left-radius: 22px;
+    border-bottom-right-radius: 22px;
+}
+
+.obiPic {
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+}
+
+.role {
+    margin-top: -20px;
+    color: #F3BF99;
+    font-weight: normal;
+}
+
+
+
+button {
+    width: 120px;
+    height: 35px;
+    Padding: 9px, 13px, 9px, 11px;
+    margin: 0 5px 30px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    border: none;
+    border-radius: 5px;
+}
+
+.linkedIn {
+    background-color: #5093E2;
+}
+
+p {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 150%;
+    text-align: center;
+    color: #F5F5F5;
+}
+
+.info {
+    color: #DCDCDC;
+    text-align: justify;
+    margin: 0 0 20px 37px;
+    width: 248px;
+}
+
+h3 {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 150%;
+    color: #F5F5F5;
+    text-align: justify;
+    margin: 0 0 5px 37px;
+}
+
+.footer {
+    background-color: #161619;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+}
+
+.icon {
+    background: #918E9B;
+    height: 30px;
+    margin: 10px 10px;
+}
